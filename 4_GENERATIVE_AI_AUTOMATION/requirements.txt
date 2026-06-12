@@ -1,0 +1,4 @@
+langchain-groq
+pypdf2
+faiss-cpu
+streamlit
